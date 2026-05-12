@@ -19,11 +19,11 @@ Medical image registration using homologous points and geometric transformations
 
 ## Dataset
 The images used in this project were obtained from the FIRE dataset:
-[FIRE Retinal Image Dataset]: https://projects.ics.forth.gr/cvrl/fire/
+[FIRE Retinal Image Dataset](https://projects.ics.forth.gr/cvrl/fire/)
 
 ## Files
-- 'registration.ipynb' -> Main notebook implementation
-- 'homologous_points.txt' -> Selected homologous points
+- `registration.ipynb` -> Main notebook implementation
+- `homologous_points.txt` -> Selected homologous points
 
 ## Applications
 This project can be applied in:
