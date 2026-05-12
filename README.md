@@ -20,7 +20,6 @@ Medical image registration using homologous points and geometric transformations
 ## Files
 - 'registration.ipynb' -> Main notebook implementation
 - 'homologous_points.txt' -> Selected homologous points
-- 'Image Registration.pdf' -> Project report and methodology
 
 ## Applications
 This project can be applied in:
