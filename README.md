@@ -25,13 +25,13 @@ The registration workflow consists of the following steps:
 The following examples illustrate the complete image registration workflow, from retinal image pair selection and homologous point matching to affine trasformation and quantitative evaluation.
 ### Input Retinal Images
 Retinal image pair selected from the FIRE dataset and used as input for the registration process.
-![Input Retinal Images](input_retinal_pair.png)
+![Input Retinal Images](results/input_retinal_pair.png)
 ### Homologous Point Matching
 Corresponding anatomical landmarks identified across the retinal image pair and used to estimate the affine trasnformation.
-![Homoloous Point Matching](homologous_point_matching.png)
+![Homoloous Point Matching](results/homologous_point_matching.png)
 ### Affine Registration Result
 Comparison between the original image, the transformed image, and the difference image after affine registration.
-![Affine Registration Result](affine_registration_result.png)
+![Affine Registration Result](results/affine_registration_result.png)
 
 ---
 
