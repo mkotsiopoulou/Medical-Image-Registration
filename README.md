@@ -61,8 +61,3 @@ The increase in Mutual Information indicates improved alignment between the regi
 The images used in this project were obtained from the FIRE Dataset:
 **FIRE - Fundus Image Registration Dataset**
 [FIRE Retinal Image Dataset](https://projects.ics.forth.gr/cvrl/fire/)
-
----
-
-## Author
-Marina Kotsiopoulou
